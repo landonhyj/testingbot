@@ -1,0 +1,25 @@
+{
+  "name": "testingbot",
+  "version": "1.0.0",
+  "description": "slackbot for testing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landonhyj/testingbot.git"
+  },
+  "author": "Jue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landonhyj/testingbot/issues"
+  },
+  "homepage": "https://github.com/landonhyj/testingbot#readme",
+  "dependencies": {
+    "all": "0.0.0",
+    "axios": "^0.19.2",
+    "slackbot": "0.0.2",
+    "slackbots": "^1.2.0"
+  }
+}
